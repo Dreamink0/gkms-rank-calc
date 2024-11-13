@@ -16,9 +16,11 @@ Formula dan Data Source : [学マス計算機](https://docs.google.com/spreadshe
 > Warning : archaic vanilla JavaScript coding-style ahead. up-to-date JS programmers, brace your heads out of out-of-dateness!
 
 ## Screenshots
+<div>
 <img src="./readme_asset/en.png" alt="English" width=300>
 <img src="./readme_asset/id.png" alt="Indonesian" width=300>
 <img src="./readme_asset/jp.png" alt="Japanese" width=400>
+</div>
 
 ## Features
 - Multi-lingual support
