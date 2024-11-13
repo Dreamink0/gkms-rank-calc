@@ -1,0 +1,35 @@
+{
+    "title": "学マス計算機",
+    "lang_name": "日本語",
+    "data_updated_date": "データと式の日付 : {date}",
+
+    "final_exam": "最終試験",
+    "final_exam_rank": "順位",
+    "final_exam_score": "スコア",
+
+    "status": "ステータス",
+    "status_info" : "最終試験直前のアイドルのステータスを入力してください。",
+    "status_vo": "ボーカル (Vo)",
+    "status_da": "ダンス (Da)",
+    "status_vi": "ビジュアル (Vi)",
+    "status_30": "+30ボーナス加算後",
+
+    "produce": "プロデュース",
+    "difficulty": "難易度",
+    "difficulty_regular": "レギュラー",
+    "difficulty_pro": "プロ",
+    "difficulty_master": "マスター",
+
+    "result": "評価点換算",
+    "status_point_pre": "ステータスポイント",
+    "status_point_post": "ステータスポイント（ボナス入）",
+    "final_score_point": "最終試験スコアポイント",
+    "final_rank_point": "最終試験順位ポイント",
+    "total_point": "合計点",
+    "point_rank": "評価ランク",
+
+    "rank_score_clear": "クリア",
+
+    "score_projection": "各ランクまで必要な最終試験のスコア",
+    "data_formula_notice": "すべてのデータと計算式は、<a href='https://docs.google.com/spreadsheets/d/1eEdzfHGi7iXpohR-UHr5-W1z7PcYBqQr8OAV7gcvhR8/htmlview'>このGoogle Spreadsheet</a>から取得されました。すべては彼らのおかげです、私はただ使いやすくしただけです（そのつもりだったけど）。<br/>このページ自体はCreative Commons 4.0 - Attributionに基づいて作成されています"
+}

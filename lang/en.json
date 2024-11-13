@@ -1,0 +1,35 @@
+{
+    "title":"Gakumas Calculator",
+    "lang_name":"English",
+    "data_updated_date": "Updated : {date}",
+
+    "final_exam":"Final Exam",
+    "final_exam_rank":"Rank",
+    "final_exam_score":"Score",
+
+    "produce": "Produce",
+    "difficulty":"Difficulty",
+    "difficulty_regular": "REGULAR",
+    "difficulty_pro":"PRO",
+    "difficulty_master":"MASTER",
+
+    "status": "Status",
+    "status_info" : "Please input idol status value right before final exam.",
+    "status_vo":"Vocal (Vo)",
+    "status_da":"Dance (Da)",
+    "status_vi":"Visual (Vi)",
+    "status_30": "Add +30 Bonus",
+
+    "result":"Result",
+    "status_point_pre":"Point from Status",
+    "final_score_point": "Point from Final Exam Score",
+    "final_rank_point": "Point from Final Exam Rank",
+    "total_point": "Total Evaluation Point",
+    "point_rank": "Evaluation Rank",
+
+    "rank_score_clear": "Clear",
+
+    "score_projection": "Rank → Final Exam Score",
+    "point_rank_failed": "Failed",
+    "data_formula_notice": "All data and calculation formula are originated from <a href='https://docs.google.com/spreadsheets/d/1eEdzfHGi7iXpohR-UHr5-W1z7PcYBqQr8OAV7gcvhR8/htmlview'>this Google Spreadsheet</a>. All credits to them, I just simplify the usage ( or so my intent ). <br/> The page itself is made under Creative Commons 4.0 - Attributions"    
+}

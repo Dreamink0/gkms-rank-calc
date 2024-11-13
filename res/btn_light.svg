@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32">
+    <g fill="white" id="btn_night_switch_icon" >
+        <path d="M 16 16 v -8 a 4 4 0 0 1 0 16 a 4 4 0 0 1 0 -16 z" />
+        <path d="
+            M 0 0 m 2 -10 l -2 -3 l -2 3 z
+            M 0 0 m -10 -2 l -3 2 l 3 2 z
+            M 0 0 m -2 10 l 2 3 l 2 -3 z
+            M 0 0 m 10 2 l 3 -2 l -3 -2 z
+        " transform="translate(16 16) rotate(0)"/>
+        <path d="
+            M 0 0 m 2 -10 l -2 -3 l -2 3 z
+            M 0 0 m -10 -2 l -3 2 l 3 2 z
+            M 0 0 m -2 10 l 2 3 l 2 -3 z
+            M 0 0 m 10 2 l 3 -2 l -3 -2 z
+        " transform="translate(16 16) rotate(45)"/>
+    </g>
+</svg>

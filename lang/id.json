@@ -1,0 +1,35 @@
+{
+    "title": "Kalkulator Gakumas",
+    "lang_name": "Bahasa Indonesia",
+    "data_updated_date": "Diperbarui : {date}",
+
+    "status": "Status",
+    "status_info" : "Masukkan nilai status idol tepat sebelum ujian akhir dimulai.",
+    "status_vo": "Suara (Vo.)",
+    "status_da": "Tari (Da.)",
+    "status_vi": "Penampilan (Vi.)",
+    "status_30": "Tambah Bonus +30",
+
+    "final_exam": "Ujian Akhir",
+    "final_exam_rank": "Peringkat",
+    "final_exam_score": "Nilai",
+
+    "produce": "Produksi",
+    "difficulty": "Kesulitan",
+    "difficulty_regular": "REGULER",
+    "difficulty_pro": "PRO",
+    "difficulty_master": "MASTER",
+
+    "result":"Hasil",
+    "status_point_pre":"Poin dari Status",
+    "final_score_point": "Poin dari Nilai Ujian Akhir",
+    "final_rank_point": "Poin dari Peringkat Ujian Akhir",
+    "total_point": "Total Poin",
+    "point_rank": "Peringkat Akhir",
+
+    "rank_score_clear": "Selesai",
+
+    "score_projection": "Peringkat Akhir → Nilai Ujian Akhir",
+    "point_rank_failed": "Gagal",
+    "data_formula_notice": "Semua data dan rumus perhitungan berasal dari <a href='https://docs.google.com/spreadsheets/d/1eEdzfHGi7iXpohR-UHr5-W1z7PcYBqQr8OAV7gcvhR8/htmlview'>Google Spreadsheet ini</a>, Semua credit ke mereka, saya cuma bikin biar aksesnya gampang aja ( gitu sih niatnya ). <br/> Halaman dibuat dibawah lisensi Creative Commons 4.0 - Attributions"
+}

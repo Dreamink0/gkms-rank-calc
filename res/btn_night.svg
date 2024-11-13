@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32">
+    <g fill="black" id="btn_night_switch_icon" transform="translate(-8, -8) scale(1.5)">
+        <path d="M 10 19 v -8 a 6 6 0 1 1 0 10 a 8 8 0 1 0 0 -10 z" />
+        <path d="
+        M 13 14 m 0 -2 a 4 4 0 0 0 4 4 a 4 4 0 0 0 -4 4 a 4 4 0 0 0 -4 -4
+        a 4 4 0 0 0 4 -4 z
+        "/>
+    </g>
+</svg>

@@ -1,0 +1,6 @@
+plugins:
+  - jekyll-seo-tag
+
+title: 学マス計算機
+tagline: 学園アイドルマスターのプロデュース計算機
+logo: res/icon.png
