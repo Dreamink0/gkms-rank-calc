@@ -1,0 +1,35 @@
+{
+    "title":"学园偶像大师计算器",
+    "lang_name":"简体中文",
+    "data_updated_date": "更新于 : {date}",
+
+    "final_exam":"最终试验",
+    "final_exam_rank":"排名",
+    "final_exam_score":"分数",
+
+    "produce": "制作",
+    "difficulty":"难度",
+    "difficulty_regular": "REGULAR",
+    "difficulty_pro":"PRO",
+    "difficulty_master":"MASTER",
+
+    "status": "三围",
+    "status_info" : "请输入期末考试前小偶像的三围",
+    "status_vo":"Vocal (Vo)",
+    "status_da":"Dance (Da)",
+    "status_vi":"Visual (Vi)",
+    "status_30": "+30 加成",
+
+    "result":"结果",
+    "status_point_pre":"三围总和所得点数",
+    "final_score_point": "期末考试分数所得点数",
+    "final_rank_point": "期末考试排名所得点数",
+    "total_point": "预估总点数",
+    "point_rank": "预估评级",
+
+    "rank_score_clear": "无",
+
+    "score_projection": "评级 → 期末考试分数",
+    "point_rank_failed": "失败",
+    "data_formula_notice": "所有数据和计算公式均 <a href='https://docs.google.com/spreadsheets/d/1eEdzfHGi7iXpohR-UHr5-W1z7PcYBqQr8OAV7gcvhR8/htmlview'>来源于此 Google 电子表格</a>。 所有功劳归原作者所有，我只是简化了使用过程（至少这是我的意图）。 <br/> 此页面本身遵循 Creative Commons 4.0 - 署名许可协议。"    
+}
