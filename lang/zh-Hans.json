@@ -13,15 +13,15 @@
     "difficulty_pro":"PRO",
     "difficulty_master":"MASTER",
 
-    "status": "三围",
-    "status_info" : "请输入期末考试前小偶像的三围",
+    "status": "属性",
+    "status_info" : "请输入期末考试前小偶像的属性",
     "status_vo":"Vocal (Vo)",
     "status_da":"Dance (Da)",
     "status_vi":"Visual (Vi)",
     "status_30": "+30 加成",
 
     "result":"结果",
-    "status_point_pre":"三围总和所得点数",
+    "status_point_pre":"属性总和所得点数",
     "final_score_point": "期末考试分数所得点数",
     "final_rank_point": "期末考试排名所得点数",
     "total_point": "预估总点数",
