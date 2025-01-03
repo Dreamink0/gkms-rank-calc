@@ -2,7 +2,8 @@ var tl = (() => {
     const _tl_names = {
         "en": "./lang/en.json",
         "jp": "./lang/jp.json",
-        "id": "./lang/id.json"
+        "id": "./lang/id.json",
+        "zh-Hans": "./lang/zh-Hans.json"
     }
 
     let _tl_data = {};
