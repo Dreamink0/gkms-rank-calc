@@ -20,6 +20,7 @@ Formula dan Data Source : [学マス計算機](https://docs.google.com/spreadshe
 <img src="./readme_asset/en.png" alt="English" width=300>
 <img src="./readme_asset/id.png" alt="Indonesian" width=300>
 <img src="./readme_asset/jp.png" alt="Japanese" width=400>
+<img src="./readme_asset/zh-Hans.png" alt="Simplified Chinese" width=300>
 </div>
 
 ## Features
@@ -31,6 +32,7 @@ Formula dan Data Source : [学マス計算機](https://docs.google.com/spreadshe
 - English
 - 日本語 (Japanese)
 - Bahasa Indonesia (Indonesian)
+- 简体中文 (Simplified Chinese) - contributed by [Dreamink0](https://github.com/Dreamink0)
 
 If you want to add new language or update/fix an already available translation, you can always make a fork, make a change to the fork and then make a pull request to this main repo.
 
